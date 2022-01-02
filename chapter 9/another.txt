@@ -1,5 +1,1 @@
-I am writing this to a newly made file. This will be overwritten as I have opened file in write mode.
-This will be appended at the end of the file
-This will be appended at the end of the file
-This will be appended at the end of the file
-This will be appended at the end of the file
+Writing using with and as
